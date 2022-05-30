@@ -1,0 +1,93 @@
+body
+{
+	background: rgb(255, 255, 255);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(255, 255, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+.button {
+	background-image: url(gradient.gif);
+	border: none;
+	padding: 10px;
+	font-family: Raleway;
+	font-size: 25px;
+	font-weight: bold;
+     border-radius: 50px;
+}
+
+  .login {
+	  border-radius: 50px;
+	}
+
+	.start {
+		font-family: Macondo;	
+		font-size: 75px;
+		color: #fff;
+		
+	}
+
+	.intro {
+		background-image: url(FRONT.gif);
+		padding-top: 10px;
+		padding-bottom: 200px;
+	}
+
+	#design {
+		background-color: rgba(0, 0, 0, 0.753);
+		padding-top: 5px;
+	}
+
+	#sub {
+			font-family: Macondo;	
+	font-size: 40px;
+	color: rgb(0, 0, 0);
+	}
+
+	.player {
+		background-color: #1c122e36;
+	}
+
+	.profile {
+		border-radius: 100%;
+		height: 150px;
+		margin-bottom: 10px;
+	}
+
+	.ti {
+		border-radius: 50px;
+		background-color: #1c122e28;
+	}
+
+	.tit {
+		font-family: "Koulen";
+	}
